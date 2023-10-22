@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrawan0110
 - 👀 I’m interested in Devops works
-- 🌱 I’m currently learning Aws w
+- 🌱 I’m currently learning abc
 - 💞️ I’m looking to collaborate on DEVOPS
 - 📫 How to reach me ...
 
