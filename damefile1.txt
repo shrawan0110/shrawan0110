@@ -1,6 +1,0 @@
-"This is logic A related code"
-<<<<<<< Updated upstream
-=======
-1:wq!
-
->>>>>>> Stashed changes
